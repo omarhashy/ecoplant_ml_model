@@ -3,6 +3,5 @@ dataset
 potato_only
 plantvillage_dataset
 potato_only.h5
-plant_village_model.keras
 plant_village_model.h5
 plant_village_model.keras
